@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>欢迎来到我的小站</title>
+  
+  <subtitle>My Dear Moments</subtitle>
+  <link href="https://leaves-ming.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://leaves-ming.github.io/"/>
+  <updated>2025-05-11T00:44:42.629Z</updated>
+  <id>https://leaves-ming.github.io/</id>
+  
+  <author>
+    <name>Bristol.A.Y</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>THE FIRST BOLG</title>
+    <link href="https://leaves-ming.github.io/2025/05/11/THE-FIRST-BOLG/"/>
+    <id>https://leaves-ming.github.io/2025/05/11/THE-FIRST-BOLG/</id>
+    <published>2025-05-11T00:33:06.000Z</published>
+    <updated>2025-05-11T00:44:42.629Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今天是母亲节，先祝我的妈妈节日快乐吧~&lt;/p&gt;
+&lt;h1 id=&quot;母亲节快乐，您辛苦了！&quot;&gt;&lt;a href=&quot;#母亲节快乐，您辛苦了！&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="随笔" scheme="https://leaves-ming.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="母亲节" scheme="https://leaves-ming.github.io/tags/%E6%AF%8D%E4%BA%B2%E8%8A%82/"/>
+    
+  </entry>
+  
+</feed>
