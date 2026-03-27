@@ -6,7 +6,7 @@
   <link href="https://leaves-ming.github.io/atom.xml" rel="self"/>
   
   <link href="https://leaves-ming.github.io/"/>
-  <updated>2025-05-18T11:26:59.543Z</updated>
+  <updated>2026-03-27T12:54:29.548Z</updated>
   <id>https://leaves-ming.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>source/_posts/prompt，context与skills</title>
+    <link href="https://leaves-ming.github.io/2026/03/27/prompt%EF%BC%8Ccontext%E4%B8%8Eskills/"/>
+    <id>https://leaves-ming.github.io/2026/03/27/prompt%EF%BC%8Ccontext%E4%B8%8Eskills/</id>
+    <published>2026-03-27T10:47:06.000Z</published>
+    <updated>2026-03-27T12:54:29.548Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在人工智能领域，prompt（提示）、context（上下文）和skills（技能）是三个关键概念，它们在AI系统的设计和功能实现中扮演着重要角色。&lt;/p&gt;
+&lt;h1 id=&quot;1占位，以后写&quot;&gt;&lt;a href=&quot;#1占位，以后写&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="cs" scheme="https://leaves-ming.github.io/categories/cs/"/>
+    
+    
+    <category term="agent" scheme="https://leaves-ming.github.io/tags/agent/"/>
+    
+  </entry>
   
   <entry>
     <title>cs61a(二）</title>
